@@ -4,14 +4,20 @@ Add status icons to your files automatically based on frontmatter status field. 
 
 See the icons on the obsidian file explorer. good for task management through file.
 
-![](image.png)
-
 ## Features
 
 - Automatically adds status icons based on frontmatter
 - Supports multiple status values
 - Updates in real-time
-- No configuration needed
+- Better to do task management through file and GTD
+
+## Screenshots
+
+### File Explorer
+![](image.png)
+
+### Settings
+![](image2.png)
 
 ## Usage
 
