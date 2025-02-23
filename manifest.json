@@ -1,11 +1,9 @@
 {
-	"id": "frontmatter-task-management",
-	"name": "Frontmatter Tasks management",
-	"version": "1.0.1",
+	"id": "frontmatter-task-mgmt",
+	"name": "Frontmatter Tasks Mgmt",
+	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
-	"description": "Automatically adds status icons to files based on frontmatter status field. Supports multiple statuses and updates in real-time.",
+	"description": "Add status icons to your files automatically based on frontmatter status field. The plugin monitors your files in real-time and updates the icons as you change the status in your frontmatter.",
 	"author": "junhui huang",
-	"authorUrl": "https://github.com/junhui/frontmatter-task-management",
-	"fundingUrl": "https://github.com/junhui/frontmatter-task-management",
 	"isDesktopOnly": false
 }

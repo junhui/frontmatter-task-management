@@ -1,4 +1,4 @@
-# Frontmatter Status Icons
+# Frontmatter Task Mgmt
 
 Add status icons to your files automatically based on frontmatter status field. The plugin monitors your files in real-time and updates the icons as you change the status in your frontmatter.
 
@@ -35,7 +35,7 @@ status: [todo, important]
 
 | Status | Icon | Description |
 |--------|------|-------------|
-| todo/to-do | 📋 | Task to be done |
+| todo | 🔲 | Task to be done |
 | incomplete | 🟡 | Work in progress |
 | done | ✅ | Completed task |
 | canceled | ❌ | Canceled or abandoned |
@@ -64,7 +64,7 @@ status: [todo, important]
 
 1. Open Obsidian Settings
 2. Go to Community Plugins and disable Safe Mode
-3. Click Browse and search for "Frontmatter Status Icons"
+3. Click Browse and search for "Frontmatter Task Mgmt"
 4. Install and enable the plugin
 
 ### Manual Installation
