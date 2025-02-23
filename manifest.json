@@ -5,7 +5,5 @@
 	"minAppVersion": "0.15.0",
 	"description": "Automatically adds status icons to files based on frontmatter status field. Supports multiple statuses and updates in real-time.",
 	"author": "junhui huang",
-	"authorUrl": "https://github.com/junhui/frontmatter-task-management",
-	"fundingUrl": "https://github.com/junhui/frontmatter-task-management",
 	"isDesktopOnly": false
 }
