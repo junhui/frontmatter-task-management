@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "frontmatter-task-management",
+	"name": "Frontmatter Tasks management",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Automatically adds status icons to files based on frontmatter status field. Supports multiple statuses and updates in real-time.",
+	"author": "junhui huang",
+	"authorUrl": "https://github.com/junhui/frontmatter-task-management",
+	"fundingUrl": "https://github.com/junhui/frontmatter-task-management",
 	"isDesktopOnly": false
 }
